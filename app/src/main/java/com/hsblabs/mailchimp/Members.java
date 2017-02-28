@@ -7,7 +7,7 @@ package com.hsblabs.mailchimp;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
-public class ModelClassMailChimp {
+public class Members {
     @SerializedName("email_address")
     @Expose
     private String emailAddress;
