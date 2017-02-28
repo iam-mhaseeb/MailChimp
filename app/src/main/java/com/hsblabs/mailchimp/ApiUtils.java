@@ -8,7 +8,7 @@ public class ApiUtils {
 
     private ApiUtils() {}
 
-    public static final String BASE_URL = "http://jsonplaceholder.typicode.com/";
+    public static final String BASE_URL = "https://usX.api.mailchimp.com";
 
     public static APIService getAPIService() {
 
